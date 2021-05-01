@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201774745874",
+    "project_id": "whatsapp-47bd4",
+    "storage_bucket": "whatsapp-47bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201774745874:android:ed17390122dc0d0e7fcbcb",
+        "android_client_info": {
+          "package_name": "com.sharif.chatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201774745874-l9h8u3mc6btqi3o153j22934dou806o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGOgJAtRsPzBsNCtasrg7enQSdMhqBIqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201774745874-l9h8u3mc6btqi3o153j22934dou806o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
